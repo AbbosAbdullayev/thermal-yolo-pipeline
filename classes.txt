@@ -1,0 +1,15 @@
+
+# Thermal object detection: Potential classes list
+
+classes = ['Person', 
+	  'Bike',
+	  'Car', 
+	  'Motorcycle', 
+	  'Bus', 
+	  'Train', 
+	  'Truck', 
+	  'Traffic light', 
+	  'Street Sign', 
+	  'Dog', 
+	  'Scooter', 
+	  'Other Vehicle']
